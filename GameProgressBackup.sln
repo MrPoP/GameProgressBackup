@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProgressBackup", "GameProgressBackup.csproj", "{4DA8DA3C-8D17-48C2-A20A-E3C5699D1F36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA8DA3C-8D17-48C2-A20A-E3C5699D1F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA8DA3C-8D17-48C2-A20A-E3C5699D1F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA8DA3C-8D17-48C2-A20A-E3C5699D1F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA8DA3C-8D17-48C2-A20A-E3C5699D1F36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {783A884B-ED3C-489F-B27E-D6C0FB4F8FC7}
+	EndGlobalSection
+EndGlobal
